@@ -5,7 +5,31 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Start_End/StartScene.unity
+    guid: aee744f015dd32f4ab8dff8cc89392a2
+  - enabled: 1
+    path: Assets/Scenes/Dialogue/DialogueScene.unity
+    guid: c5dd4a6f1787e284baa7ef0a73d594fd
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 6c5201a397784994b8c1adffa27b5a19
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/MiniGame1Scene.unity
+    guid: f859b1367a0ee444592e0bdfa0131824
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/MiniGame2Scene.unity
+    guid: ff04370dd863f3f4da2a58926bbb76e9
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/MiniGame3Scene.unity
+    guid: a2afa3ed38a41384cadde119295523a9
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/MiniGame4Scene.unity
+    guid: dd50ea690a346b24887d511e7b222510
+  - enabled: 1
+    path: Assets/Scenes/Start_End/EndScene.unity
+    guid: 98c76b0f614cfad45be05913aa56fc11
+  - enabled: 1
+    path: Assets/Scenes/Dialogue/AscensionDialogueScene.unity
+    guid: c62f4800b78e5424b8206a7b8e14c798
   m_configObjects: {}
